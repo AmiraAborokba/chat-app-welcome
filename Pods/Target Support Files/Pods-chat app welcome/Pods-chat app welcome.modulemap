@@ -1,0 +1,6 @@
+framework module Pods_chat_app_welcome {
+  umbrella header "Pods-chat app welcome-umbrella.h"
+
+  export *
+  module * { export * }
+}
